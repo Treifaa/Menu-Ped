@@ -4,7 +4,6 @@ game 'gta5'
 
 author 'TREIFA'
 
--- RageUI V2
 
 client_scripts {
     "src/RMenu.lua",
